@@ -1,0 +1,16 @@
+numpy
+wandb
+easydict
+pyyaml
+scikit-image
+tqdm
+einops
+scikit-learn
+matplotlib
+accelerate
+einops
+ema-pytorch
+gitpython
+protobuf===3.20.3
+typing-extensions===4.5.0
+GitPython
